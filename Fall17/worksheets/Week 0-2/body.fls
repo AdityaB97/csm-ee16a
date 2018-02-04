@@ -1,0 +1,22 @@
+PWD /Users/mudit2103/GoogleDrive/Berkeley/CSM/CSM/CSM/EE 16A/Repo/Fall17/worksheets/Week 1
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT body.tex
+OUTPUT body.log
+INPUT body.aux
+INPUT body.aux
+OUTPUT body.aux
+INPUT questions/q_eqns.tex
+INPUT questions/q_eqns.tex
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT questions/q_lin_indep_subset_proof.tex
+INPUT questions/q_lin_indep_subset_proof.tex
+INPUT questions/mech_inverse.tex
+INPUT questions/mech_inverse.tex
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
+INPUT questions/non_invertible_matrix.tex
+INPUT questions/non_invertible_matrix.tex
